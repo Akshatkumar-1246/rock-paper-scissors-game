@@ -4,7 +4,7 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. The gam
 
 ## Preview
 
-!("C:\Users\kumar\OneDrive\Pictures\Screenshots\Screenshot 2026-07-04 202113.png")
+![game preview]("C:\Users\kumar\OneDrive\Pictures\Screenshots\Screenshot 2026-07-04 202113.png")
 
 ## Features
 
